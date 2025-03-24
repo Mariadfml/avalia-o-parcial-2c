@@ -1,0 +1,18 @@
+body{
+    background-color: fuchsia;
+}
+.part1 {
+    background-color: deeppink;
+    h1{
+        text-align: center;
+    }
+}
+#img1{
+    width:50%
+}
+.part2 {
+    background-color: blue;
+}
+.part3 {
+    background-color: blueviolet;
+}
